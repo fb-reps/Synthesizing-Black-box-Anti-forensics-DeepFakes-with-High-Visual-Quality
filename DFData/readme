@@ -1,0 +1,5 @@
+process video:
+split_video_parallel.py             split video to frames, and clip the face area in 256X256. Remember to use in real videos and fake videos
+split_video_parallel_2.py           as the same code as split_video_parallel.py which work in the same time to save time
+delete_unaligned_file.py            in two folders, delete unaligned file which the name is different from another in place no mater what format
+copy_files.py                       select files from second folder which paired with first folder not in place
