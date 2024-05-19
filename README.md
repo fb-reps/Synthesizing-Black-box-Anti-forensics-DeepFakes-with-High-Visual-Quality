@@ -84,3 +84,19 @@ first row: original DeepFake frames; third row: FDN result with less visual qual
 <p align="center">
   <img src="https://github.com/BingFanSpace/ViS-GAN/blob/main/readme_images/compare_FDN_VEN.png" width="480">
 </p>
+
+## Acknowledgement
+This repo is based on the open-source release from [Pix2Pix](https://github.com/phillipi/pix2pix)
+
+## Citation
+If you find this repository useful, please consider giving it a star and citing it:
+```
+@inproceedings{fan2024synthesizing,
+  title={Synthesizing black-box anti-forensics deepfakes with high visual quality},
+  author={Fan, Bing and Hu, Shu and Ding, Feng},
+  booktitle={ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={4545--4549},
+  year={2024},
+  organization={IEEE}
+}
+```
