@@ -1,6 +1,9 @@
-### Generating Higher Quality Anti-Forensics DeepFakes with Adversarial Sharpening Mask
+### Synthesizing-Black-box-Anti-forensics-DeepFakes-with-High-Visual-Quality
 
-#### Authors
+
+this is the official code repository for [**Synthesizing-Black-box-Anti-forensics-DeepFakes-with-High-Visual-Quality
+**](https://arxiv.org/pdf/2312.10713).
+
 #### Abstract
 DeepFake, an artificial intelligent technology which can automatically synthesize facial forgeries has recently attracted worldwide attention. Albeit DeepFakes can be applied to entertain people, it can also be employed to spread falsified information or even be weaponized amid information war. So far, forensics researchers have been dedicated to designing new algorithms to resist such disinformation. On the other hand, there are techniques developed to make DeepFake products more aggressive. For instance, by launching anti-forensics attacks, DeepFakes can be disguised as pristine media that can disrupt forensics detectors. However, it usually sacrifices image qualities for achieving satisfactory undetectability in anti-forensics attacks. To address this issue, we propose a method to generate the novel adversarial sharpening mask. Unlike many existing arts, with such masks worn, DeepFakes could achieve high anti-forensics performance while exhibiting pleasant sharpening visual effects. After experimental evaluations, we prove that the proposed method could successfully disrupt the state-of-the-art DeepFake detectors. Besides, compared with the images processed by existing DeepFake anti-forensics methods, the qualities of anti-forensics images produced by the proposed method are significantly improved.
 
